@@ -1,7 +1,7 @@
 # Source
 
 - Item: LDS-AF
-- Publication: Large-Scale Multiobjective Evolutionary Algorithm Guided by Low-Dimensional Surrogates of Scalarization Functions, Evolutionary Computation, 2025.
+- Publication: Large-Scale Multiobjective Evolutionary Algorithm Guided by Low-Dimensional Surrogates of Scalarization Functions, Evolutionary Computation, 2024.
 - Code source: Local public PlatEMO 4.8 directory: PlatEMO/Algorithms/Multi-objective optimization/LDS-AF
 - Imported path: algorithms/LDS-AF
 - Imported on: 2026-06-12
