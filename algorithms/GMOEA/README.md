@@ -1,5 +1,27 @@
 # GMOEA
 
+The source codes of GMOEA, and the citation information are listed as follows:
+
+## Bibtex citation
+```
+@article{he2020evolutionary,
+  title={Evolutionary multiobjective optimization driven by generative adversarial networks (GANs)},
+  author={He, Cheng and Huang, Shihua and Cheng, Ran and Tan, Kay Chen and Jin, Yaochu},
+  journal={IEEE Transactions on Cybernetics},
+  volume={51},
+  number={6},
+  pages={3129--3142},
+  year={2021},
+  publisher={IEEE}
+}
+```
+
+## Word citation
+```
+He C, Huang S, Cheng R, et al. Evolutionary multiobjective optimization driven by generative adversarial networks (GANs)[J]. IEEE Transactions on Cybernetics, 2021, 51(6): 3129-3142.
+<DOI: DOI: 10.1109/TCYB.2020.2985081>.
+```
+
 The official implementation of GMOEA [1] with Pytorch:
 
     GMOEA.py is the main file.
