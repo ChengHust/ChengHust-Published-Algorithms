@@ -1,5 +1,4 @@
 function result = MOZORL(problem, options)
-%MOZORL Generic MATLAB implementation of MOZO with optional RL control.
 %
 %   result = MOZORL(problem, options)
 %
